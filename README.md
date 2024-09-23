@@ -27,11 +27,12 @@ These metrics show significant improvement over prior methods on datasets like *
    ```bash
    git clone https://github.com/EEG-Vision/EEG-Vision.git
 2. Install dependencies:
+  ```bash
    pip install -r requirements.txt
    
 ## Datasets
-- ** EEGCVPR40
-- ** ThoughtViz
+- **EEGCVPR40**
+- **ThoughtViz**
   
 ## Conclusion
 HierarchicalCLIP-ViT advances EEG-based image reconstruction, combining transformer models and hierarchical feature extraction to significantly improve the quality of generated images.
