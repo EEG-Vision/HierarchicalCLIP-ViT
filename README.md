@@ -20,3 +20,18 @@ We evaluate our model with:
 - **Fréchet Inception Distance (FID)**
 - **Multivariate Analysis of Variance (MANOVA)**
 These metrics show significant improvement over prior methods on datasets like **EEGCVPR40** and **ThoughtViz**.
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/EEG-Vision/EEG-Vision.git
+2. Install dependencies:
+   pip install -r requirements.txt
+   
+## Datasets
+- ** EEGCVPR40
+- ** ThoughtViz
+  
+## Conclusion
+HierarchicalCLIP-ViT advances EEG-based image reconstruction, combining transformer models and hierarchical feature extraction to significantly improve the quality of generated images.
