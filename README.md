@@ -34,6 +34,9 @@ These metrics show significant improvement over prior methods on datasets like *
 ## Datasets
 - **EEGCVPR40**
 - **ThoughtViz**
-  
+
+## Results
+Our model achieves state-of-the-art results on both datasets, with significant improvements in IS and FID metrics compared to previous approaches. See the full evaluation results in the results/ folder.
+
 ## Conclusion
 HierarchicalCLIP-ViT advances EEG-based image reconstruction, combining transformer models and hierarchical feature extraction to significantly improve the quality of generated images.
