@@ -28,7 +28,8 @@ These metrics show significant improvement over prior methods on datasets like *
    git clone https://github.com/EEG-Vision/EEG-Vision.git
 
 2. Install dependencies:
-   pip install -r requirements.txt
+pip install -r requirements.txt
+   ```bash
 
 ## Datasets
 - **EEGCVPR40**
