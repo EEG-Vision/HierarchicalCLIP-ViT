@@ -14,15 +14,13 @@ Inspired by the hierarchical nature of human vision, the model progressively ext
 ## Image Generation
 A StyleGAN is used to generate high-resolution images from the aligned EEG and image features, ensuring realistic reconstructions.
 
-![Figure 1](EEG_Image.png)
-
 ### Evaluation Metrics
 We evaluate our model with:
 - **Inception Score (IS)**
 - **Fréchet Inception Distance (FID)**
 - **Multivariate Analysis of Variance (MANOVA)**
 These metrics show significant improvement over prior methods on datasets like **EEGCVPR40** and **ThoughtViz**.
-
+![Figure 1](EEG_Image.png)
 ## Getting Started
 
 1. Clone the repository:
