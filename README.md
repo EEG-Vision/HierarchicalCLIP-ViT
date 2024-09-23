@@ -20,7 +20,9 @@ We evaluate our model with:
 - **Fréchet Inception Distance (FID)**
 - **Multivariate Analysis of Variance (MANOVA)**
 These metrics show significant improvement over prior methods on datasets like **EEGCVPR40** and **ThoughtViz**.
+
 ![Figure 1](EEG_Image.png)
+
 ## Getting Started
 
 1. Clone the repository:
