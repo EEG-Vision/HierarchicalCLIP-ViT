@@ -42,3 +42,8 @@ Our model achieves state-of-the-art results on both datasets, with significant i
 
 ## Conclusion
 HierarchicalCLIP-ViT advances EEG-based image reconstruction, combining transformer models and hierarchical feature extraction to significantly improve the quality of generated images.
+
+## Contributors
+- [@emirian](https://github.com/emirian)
+- [@EmadArasteh](https://github.com/EmadArasteh)
+- [@Kosar-sanjar](https://github.com/Kosar-sanjar)
